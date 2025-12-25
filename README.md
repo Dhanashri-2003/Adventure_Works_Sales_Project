@@ -2,10 +2,12 @@
 
 
 
+
 📌 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 :
 This project is a 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐜𝐚𝐬𝐞 𝐬𝐭𝐮𝐝𝐲 built on 𝐭𝐡𝐞 𝐀𝐝𝐯𝐞𝐧𝐭𝐮𝐫𝐞 𝐖𝐨𝐫𝐤𝐬 𝐝𝐚𝐭𝐚𝐬𝐞𝐭, demonstrating how raw transactional data can be transformed into business-ready insights using 𝐒𝐐𝐋, 𝐄𝐱𝐜𝐞𝐥, 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈, 𝐚𝐧𝐝 𝐓𝐚𝐛𝐥𝐞𝐚𝐮.
 
 The project simulates a real-world analytics workflow, covering data extraction, validation, visualization, and strategic decision-making.
+
 
 
 
@@ -16,6 +18,7 @@ The project uses the AdventureWorks schema with the following key tables:
 Fact Tables - FactInternetSales, Fact_Internet_Sales_New (extended dataset to simulate new data)
 
 Dimension Tables - DimCustomer, DimProduct, DimProductSubcategory, DimProductCategory, DimSalesTerritory
+
 
 
 
@@ -34,6 +37,7 @@ Total Profit
 Running (Cumulative) Sales
 
 Quarter-wise Revenue Contribution
+
 
 
 
@@ -90,6 +94,7 @@ Profit Calculation using:
 Profit = SalesAmount - (TotalProductCost + TaxAmt + Freight)
 
 Month & Year-wise Profit Trends
+
 
 
 
