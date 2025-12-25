@@ -24,19 +24,19 @@ Dimension Tables - DimCustomer, DimProduct, DimProductSubcategory, DimProductCat
 
 <h2>🧮 𝐊𝐞𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐊𝐏𝐈𝐬 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 :</h2>
 
-<h3>Total Sales</h3>
+Total Sales
 
-<h3>Total Orders</h3>
+Total Orders
 
-<h3>Average Order Value (AOV)</h3>
+Average Order Value (AOV)
 
-<h3>Total Quantity Sold</h3>
+Total Quantity Sold
 
-<h3>Total Profit</h3>
+Total Profit
 
-<h3>Running (Cumulative) Sales</h3>
+Running (Cumulative) Sales
 
-<h3>Quarter-wise Revenue Contribution</h3>
+Quarter-wise Revenue Contribution
 
 
 
