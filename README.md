@@ -24,26 +24,26 @@ Dimension Tables - DimCustomer, DimProduct, DimProductSubcategory, DimProductCat
 
 <h2>🧮 𝐊𝐞𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐊𝐏𝐈𝐬 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 :</h2>
 
-Total Sales
+<h3>Total Sales</h3>
 
-Total Orders
+<h3>Total Orders</h3>
 
-Average Order Value (AOV)
+<h3>Average Order Value (AOV)</h3>
 
-Total Quantity Sold
+<h3>Total Quantity Sold</h3>
 
-Total Profit
+<h3>Total Profit</h3>
 
-Running (Cumulative) Sales
+<h3>Running (Cumulative) Sales</h3>
 
-Quarter-wise Revenue Contribution
+<h3>Quarter-wise Revenue Contribution</h3>
 
 
 
 
 <h2>📊 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐞𝐝 :</h2>
 
-1️⃣ 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 -
+<h3>1️⃣ 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 -</h3>
 
 Overall KPIs (Sales, Orders, AOV)
 
@@ -53,13 +53,13 @@ Month-wise Sales Trend
 
 Running Total (Cumulative Sales)
 
-2️⃣ 𝐆𝐫𝐨𝐰𝐭𝐡 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -
+<h3>2️⃣ 𝐆𝐫𝐨𝐰𝐭𝐡 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -</h3>
 
 Year-over-Year (YOY) Sales Growth
 
 Quarter-over-Quarter (QOQ) Sales Growth
 
-3️⃣ 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -
+<h3>3️⃣ 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -</h3>
 
 Product-wise Sales Contribution %
 
@@ -69,7 +69,7 @@ Count of products per category
 
 Monthly sales trend by product
 
-4️⃣ 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -
+<h3>4️⃣ 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -</h3>
 
 Top 5 Customers by Total Purchase Value
 
@@ -79,7 +79,7 @@ Customer Repeat vs One-time Classification
 
 Commute Distance-wise Customer Count
 
-5️⃣ 𝐓𝐞𝐫𝐫𝐢𝐭𝐨𝐫𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -
+<h3>5️⃣ 𝐓𝐞𝐫𝐫𝐢𝐭𝐨𝐫𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -</h3>
 
 Distinct Sales Territories
 
@@ -87,7 +87,7 @@ Customer count per country
 
 Sales by Territory Group
 
-6️⃣ 𝐏𝐫𝐨𝐟𝐢𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -
+<h3>6️⃣ 𝐏𝐫𝐨𝐟𝐢𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -</h3>
 
 Profit Calculation using:
 
@@ -99,15 +99,15 @@ Month & Year-wise Profit Trends
 
 <h2>📊 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐏𝐫𝐞𝐯𝐢𝐞𝐰 :</h2>
 
-Tableau Dashboard - <img width="1920" height="1200" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f327d0b4-e4c8-464b-9556-8ea0de018c8c" />
+<h3>Tableau Dashboard - <img width="1920" height="1200" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f327d0b4-e4c8-464b-9556-8ea0de018c8c" /></h3>
 
-PowerBi Dashboard - <img width="709" height="400" alt="image" src="https://github.com/user-attachments/assets/75dbf731-a588-4825-981d-5da666d07285" />
+<h3>PowerBi Dashboard - <img width="709" height="400" alt="image" src="https://github.com/user-attachments/assets/75dbf731-a588-4825-981d-5da666d07285" /></h3>
 
 
 
 <h2>🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 :</h2>
 
-🔹 𝐒𝐐𝐋 -
+<h3>🔹 𝐒𝐐𝐋 -</h3>
 
 Complex JOINs across fact & dimension tables
 
@@ -119,7 +119,7 @@ KPI & Growth Metrics (YOY, QOQ)
 
 Profit calculations
 
-🔹 𝐄𝐱𝐜𝐞𝐥 -
+<h3>🔹 𝐄𝐱𝐜𝐞𝐥 -</h3>
 
 Data cleaning & validation
 
@@ -127,7 +127,7 @@ Pivot tables for cross-checking KPIs
 
 Trend analysis & quick summaries
 
-🔹 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 -
+<h3>🔹 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 -</h3>
 
 Interactive dashboards with slicers
 
@@ -135,7 +135,7 @@ Year, Quarter, Region, Product analysis
 
 Executive-friendly storytelling
 
-🔹𝐓𝐚𝐛𝐥𝐞𝐚𝐮 -
+<h3>🔹𝐓𝐚𝐛𝐥𝐞𝐚𝐮 -</h3>
 
 Advanced visual storytelling
 
