@@ -1,9 +1,11 @@
-# Adventure_Works_Sales_Project
+Adventure_Works_Sales_Project
+📌 Project Overview
 This project is a full-stack data analytics case study built on the AdventureWorks dataset, demonstrating how raw transactional data can be transformed into business-ready insights using SQL, Excel, Power BI, and Tableau.
+
+The project simulates a real-world analytics workflow, covering data extraction, validation, visualization, and strategic decision-making.
 
 🗂️ Dataset Description
 The project uses the AdventureWorks schema with the following key tables:
-
 Fact Tables - FactInternetSales, Fact_Internet_Sales_New (extended dataset to simulate new data)
 Dimension Tables - DimCustomer, DimProduct, DimProductSubcategory, DimProductCategory, DimSalesTerritory
 
