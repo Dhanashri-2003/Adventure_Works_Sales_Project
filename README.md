@@ -99,8 +99,10 @@ Month & Year-wise Profit Trends
 
 📊 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐏𝐫𝐞𝐯𝐢𝐞𝐰 :
 
-Tableau Dashboard - <img width="791" height="425" alt="image" src="https://github.com/user-attachments/assets/c73c1a93-9fac-4cf0-8b63-20f136f37b04" />
-PowerBi Dashboard - <img width="719" height="404" alt="image" src="https://github.com/user-attachments/assets/dca72f5f-ca1d-4881-858e-2fb4df878959" />
+Tableau Dashboard - <img width="1920" height="1200" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f327d0b4-e4c8-464b-9556-8ea0de018c8c" />
+
+PowerBi Dashboard - <img width="709" height="400" alt="image" src="https://github.com/user-attachments/assets/75dbf731-a588-4825-981d-5da666d07285" />
+
 
 
 🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 :
