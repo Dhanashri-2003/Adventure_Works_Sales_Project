@@ -149,13 +149,21 @@ Insight-driven dashboard design
 
 Adventure_Works_Sales_Project/
 │
+│
 ├── Adventure Works/
-│   ├── Adventure Works Excel project.xlsx      # Excel analysis & validation
-│   ├── Adventure Works Report.pptx             # Business presentation
-│   ├── Adventure works.twbx                    # Tableau dashboard
-│   ├── Adventure_works_SQL.sql                 # SQL analysis queries
-│   ├── PowerBi project.pbix                    # Power BI dashboard
-│   └── From Raw Data → To Business Strategy.pdf# Final insight & strategy deck
+│
+├── Adventure Works Excel project.xlsx      # Excel analysis & validation
+│
+├── Adventure Works Report.pptx             # Business presentation
+│
+├── Adventure works.twbx                    # Tableau dashboard
+│
+├── Adventure_works_SQL.sql                 # SQL analysis queries
+│
+├── PowerBi project.pbix                    # Power BI dashboard
+│
+└── From Raw Data → To Business Strategy.pdf# Final insight & strategy deck
+│
 │
 └── README.md                                   # Project documentation
 
