@@ -10,78 +10,120 @@ The project simulates a real-world analytics workflow, covering data extraction,
 🗂️ 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 :
 
 The project uses the AdventureWorks schema with the following key tables:
+
 Fact Tables - FactInternetSales, Fact_Internet_Sales_New (extended dataset to simulate new data)
+
 Dimension Tables - DimCustomer, DimProduct, DimProductSubcategory, DimProductCategory, DimSalesTerritory
 
 
 🧮 𝐊𝐞𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐊𝐏𝐈𝐬 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 :
 
 Total Sales
+
 Total Orders
+
 Average Order Value (AOV)
+
 Total Quantity Sold
+
 Total Profit
+
 Running (Cumulative) Sales
+
 Quarter-wise Revenue Contribution
 
 
 📊 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐞𝐝 :
 
 1️⃣ 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 -
+
 Overall KPIs (Sales, Orders, AOV)
+
 Year-wise Sales Performance
+
 Month-wise Sales Trend
+
 Running Total (Cumulative Sales)
 
 2️⃣ 𝐆𝐫𝐨𝐰𝐭𝐡 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -
+
 Year-over-Year (YOY) Sales Growth
+
 Quarter-over-Quarter (QOQ) Sales Growth
 
 3️⃣ 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -
+
 Product-wise Sales Contribution %
+
 Category-wise Sales Contribution %
+
 Count of products per category
+
 Monthly sales trend by product
 
 4️⃣ 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -
+
 Top 5 Customers by Total Purchase Value
+
 Country-wise Top 2 Customers
+
 Customer Repeat vs One-time Classification
+
 Commute Distance-wise Customer Count
 
 5️⃣ 𝐓𝐞𝐫𝐫𝐢𝐭𝐨𝐫𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -
+
 Distinct Sales Territories
+
 Customer count per country
+
 Sales by Territory Group
 
 6️⃣ 𝐏𝐫𝐨𝐟𝐢𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 -
+
 Profit Calculation using:
+
 Profit = SalesAmount - (TotalProductCost + TaxAmt + Freight)
+
 Month & Year-wise Profit Trends
 
 
 🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 :
 
 🔹 𝐒𝐐𝐋 -
+
 Complex JOINs across fact & dimension tables
+
 UNION ALL for incremental datasets
+
 Window Functions: LAG(), DENSE_RANK(), SUM() OVER()
+
 KPI & Growth Metrics (YOY, QOQ)
+
 Profit calculations
 
 🔹 𝐄𝐱𝐜𝐞𝐥 -
+
 Data cleaning & validation
+
 Pivot tables for cross-checking KPIs
+
 Trend analysis & quick summaries
 
 🔹 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 -
+
 Interactive dashboards with slicers
+
 Year, Quarter, Region, Product analysis
+
 Executive-friendly storytelling
 
 🔹𝐓𝐚𝐛𝐥𝐞𝐚𝐮 -
+
 Advanced visual storytelling
+
 Product & regional performance views
+
 Insight-driven dashboard design
 Product & regional performance views
 Insight-driven dashboard design
