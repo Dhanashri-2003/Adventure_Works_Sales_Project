@@ -6,11 +6,13 @@ This project is a full-stack data analytics case study built on the AdventureWor
 The project simulates a real-world analytics workflow, covering data extraction, validation, visualization, and strategic decision-making.
 
 🗂️ Dataset Description
+
 The project uses the AdventureWorks schema with the following key tables:
 Fact Tables - FactInternetSales, Fact_Internet_Sales_New (extended dataset to simulate new data)
 Dimension Tables - DimCustomer, DimProduct, DimProductSubcategory, DimProductCategory, DimSalesTerritory
 
 🧮 Key Business KPIs Calculated
+
 Total Sales
 Total Orders
 Average Order Value (AOV)
@@ -20,6 +22,7 @@ Running (Cumulative) Sales
 Quarter-wise Revenue Contribution
 
 📊 Analysis Performed
+
 1️⃣ Business Performance
 Overall KPIs (Sales, Orders, AOV)
 Year-wise Sales Performance
@@ -53,6 +56,7 @@ Profit = SalesAmount - (TotalProductCost + TaxAmt + Freight)
 Month & Year-wise Profit Trends
 
 🛠️ Tools & Technologies Used
+
 🔹 SQL (MySQL / SQL Server)
 Complex JOINs across fact & dimension tables
 UNION ALL for incremental datasets
