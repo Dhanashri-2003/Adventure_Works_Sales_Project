@@ -147,9 +147,10 @@ Insight-driven dashboard design
 
 <h2>📁 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 :</h2>
 
+📁 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞:
 Adventure_Works_Sales_Project/
 │
-├── Adventure Works/
+├── Adventure Works/                        # SQL scripts folder
 │
 ├── Adventure Works Excel project.xlsx      # Excel analysis & validation
 │
@@ -161,9 +162,10 @@ Adventure_Works_Sales_Project/
 │
 ├── PowerBi project.pbix                    # Power BI dashboard
 │
-└── From Raw Data → To Business Strategy.pdf# Final insight & strategy deck
+├── From Raw Data → To Business Strategy.pdf # Final insight & strategy deck
 │
-└── README.md                                   # Project documentation
+└── README.md                               # Project documentation
+
 
 
 
