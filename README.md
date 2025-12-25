@@ -97,6 +97,11 @@ Month & Year-wise Profit Trends
 
 
 
+📊 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐏𝐫𝐞𝐯𝐢𝐞𝐰 :
+
+Tableau Dashboard - <img width="791" height="425" alt="image" src="https://github.com/user-attachments/assets/c73c1a93-9fac-4cf0-8b63-20f136f37b04" />
+PowerBi Dashboard - <img width="719" height="404" alt="image" src="https://github.com/user-attachments/assets/dca72f5f-ca1d-4881-858e-2fb4df878959" />
+
 
 🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 :
 
@@ -135,5 +140,22 @@ Advanced visual storytelling
 Product & regional performance views
 
 Insight-driven dashboard design
-Product & regional performance views
-Insight-driven dashboard design
+
+
+
+📁 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 :
+
+Adventure_Works_Sales_Project/
+│
+├── Adventure Works/
+│   ├── Adventure Works Excel project.xlsx      # Excel analysis & validation
+│   ├── Adventure Works Report.pptx             # Business presentation
+│   ├── Adventure works.twbx                    # Tableau dashboard
+│   ├── Adventure_works_SQL.sql                 # SQL analysis queries
+│   ├── PowerBi project.pbix                    # Power BI dashboard
+│   └── From Raw Data → To Business Strategy.pdf# Final insight & strategy deck
+│
+└── README.md                                   # Project documentation
+
+
+
