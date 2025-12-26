@@ -28,8 +28,6 @@ Total Sales
 
 Total Orders
 
-Average Order Value (AOV)
-
 Total Quantity Sold
 
 Total Profit
@@ -45,7 +43,7 @@ Quarter-wise Revenue Contribution
 
 <h3>1️⃣ 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 -</h3>
 
-Overall KPIs (Sales, Orders, AOV)
+Overall KPIs (Sales, Orders, Profit)
 
 Year-wise Sales Performance
 
@@ -109,7 +107,7 @@ Month & Year-wise Profit Trends
 
 <h3>🔹 𝐒𝐐𝐋 -</h3>
 
-Complex JOINs across fact & dimension tables
+JOINs across fact & dimension tables
 
 UNION ALL for incremental datasets
 
@@ -133,15 +131,13 @@ Interactive dashboards with slicers
 
 Year, Quarter, Region, Product analysis
 
-Executive-friendly storytelling
 
 <h3>🔹𝐓𝐚𝐛𝐥𝐞𝐚𝐮 -</h3>
 
-Advanced visual storytelling
+Visual storytelling
 
 Product & regional performance views
 
-Insight-driven dashboard design
 
 
 
